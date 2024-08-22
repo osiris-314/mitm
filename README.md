@@ -4,8 +4,9 @@
 
 This script if for educational purposes only, as this attach is illegal to perform without consent from the owner of the device you are trying to attack. Use it at your own risk. Only test devices that you have permision to test.
 
-
-usage: python mitm
+```
+python mitm
+```
 
 ![pre_mitm](https://github.com/user-attachments/assets/72443386-552b-4ade-9de1-0ead90b6f827)
 
