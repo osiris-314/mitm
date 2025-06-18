@@ -14,4 +14,4 @@ python mitm.py
 
 
 # After that
-a Wireshark window will open and capture all packets that passed throught you and the testing device. Also Wireshark is configured to only show packets from that particular device
+A Wireshark window will open and capture all packets that passed throught you and the testing device. Also Wireshark is configured to only show packets from that particular device
